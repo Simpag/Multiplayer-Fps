@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer Fps.Plugins", "Multiplayer Fps.Plugins.csproj", "{D38C9A57-6E0D-BE0E-1C60-CA50C73EEE58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer Fps", "Multiplayer Fps.csproj", "{6D0C5A2B-389D-A65B-1FEA-581B8B59CDAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer Fps.Editor", "Multiplayer Fps.Editor.csproj", "{795264C6-4690-FFC5-2734-11BD95EC29D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38C9A57-6E0D-BE0E-1C60-CA50C73EEE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38C9A57-6E0D-BE0E-1C60-CA50C73EEE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38C9A57-6E0D-BE0E-1C60-CA50C73EEE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38C9A57-6E0D-BE0E-1C60-CA50C73EEE58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0C5A2B-389D-A65B-1FEA-581B8B59CDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0C5A2B-389D-A65B-1FEA-581B8B59CDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0C5A2B-389D-A65B-1FEA-581B8B59CDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0C5A2B-389D-A65B-1FEA-581B8B59CDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795264C6-4690-FFC5-2734-11BD95EC29D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795264C6-4690-FFC5-2734-11BD95EC29D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795264C6-4690-FFC5-2734-11BD95EC29D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795264C6-4690-FFC5-2734-11BD95EC29D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
