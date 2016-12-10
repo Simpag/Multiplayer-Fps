@@ -5,7 +5,7 @@ public class PlayerWeapon {
 
     public string name = "MP4";
 
-    public float damage = 10f;
+    public int damage = 10;
     public float range = 200f;
 
 
